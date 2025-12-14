@@ -76,8 +76,8 @@ npm start
 ##👨‍💻 Team
 This project was developed by:
 
-Teammate 1 (Role/Focus)
+Siddharth Kumar Jena
 
-Teammate 2 (Role/Focus)
+Ashutosh Nayak
 
-Teammate 3 (Role/Focus)
+Ayutayam Sutar
