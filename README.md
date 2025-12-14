@@ -71,7 +71,9 @@ npm install
 npm run dev
 # or
 npm start
-👨‍💻 Team
+
+'''bash
+##👨‍💻 Team
 This project was developed by:
 
 Teammate 1 (Role/Focus)
